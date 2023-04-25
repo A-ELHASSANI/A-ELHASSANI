@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently searching for new job <br>👯 I’m looking to collaborate with team that love coding <br>🌱 I’m currently learning Java/Spring to go deeper with backend programming <br><br>
+🔭 I’m currently Full stack developper <br>🌱 I’m currently learning Java/Spring to go deeper with backend programming <br><br>
 
 
 ## 🌐 Socials:
