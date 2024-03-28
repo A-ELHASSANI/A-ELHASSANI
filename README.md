@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Full stack developper <br>🌱 I’m currently learning Java/Spring to go deeper with backend programming <br><br>
+🔭 I’m currently JAVA/Angular developper <br><br>
 
 
 ## 🌐 Socials:
