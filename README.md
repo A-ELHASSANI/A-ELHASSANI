@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently JAVA/Angular developper <br><br>
+🔭 I’m currently JAVA/Angular developer <br><br>
 
 
 ## 🌐 Socials:
